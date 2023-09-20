@@ -65,7 +65,7 @@ namespace oopfirstclass_program.inheritance
     {
         private double foodallowance;
         
-        protected double gross;
+        
 
 
         public managar(double foodallowance,int emp_id,double emp_salary):base(emp_id,emp_salary)
